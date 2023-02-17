@@ -1,0 +1,20 @@
+{
+    "name": "ftembe/kitara-markdow",
+    "description": "simple Markdown parser in PHP",
+    "type": "libray",
+    "license": "",
+    "authors": [
+        {
+            "name": "Francisco Tembe",
+            "email": "franciscojtembe@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Kitara\\Parser\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
