@@ -2,7 +2,7 @@
     "name": "ftembe/kitara-markdow",
     "description": "simple Markdown parser in PHP",
     "type": "libray",
-    "license": "",
+    "license": "MIT",
     "authors": [
         {
             "name": "Francisco Tembe",
