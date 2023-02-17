@@ -1,1 +1,1 @@
-##A simple regex-based Markdown parser in PHP.
+## A simple regex-based Markdown parser in PHP.
