@@ -1,5 +1,5 @@
 {
-    "name": "ftembe/kitara-markdow",
+    "name": "ftembe/kitara-markdown",
     "description": "simple Markdown parser in PHP",
     "type": "libray",
     "license": "MIT",
