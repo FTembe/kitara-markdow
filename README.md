@@ -8,6 +8,10 @@ To install this package no can use composer
 ```bash 
 composer require ftembe/kitara-markdown
 ```
+Or 
+```bash
+git clone https://github.com/FTembe/kitara-markdown.git
+```
 ## Usage
 
 ```php
